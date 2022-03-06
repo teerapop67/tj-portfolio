@@ -27,7 +27,7 @@ const Works = () => {
           <Box mb="4rem">
             <WorkItem
               title="The Rich"
-              description="This is about decentralized finance (Defi) and NFT marketplace project that I used to do. I will keep doing the next one which is decentralized exchange (DEX) for my graduation project."
+              description="This is about decentralized finance (Defi) and webpage NFT marketplace project that I used to do. I will keep doing the next one which is decentralized exchange (DEX) for my graduation project."
               objects={WorkImg.theRich}
               isArrow={true}
             />

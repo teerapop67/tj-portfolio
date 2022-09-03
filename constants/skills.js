@@ -16,7 +16,9 @@ export const skillBackend = [
   { lang: 'MySQL' },
   { lang: 'Python' },
   { lang: 'Solidity' },
-  { lang: 'C#' }
+  { lang: 'C#' },
+  { lang: 'Threejs' },
+  { lang: 'GraphQL' }
 ]
 
 export const skillUxUi = [

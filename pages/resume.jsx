@@ -49,30 +49,59 @@ const Resume = () => {
           </BtnResume>
         </Box>
         <Section delay={0.1}>
-          <LineContent hBase="42em" hMd="38em" justify="center">
-            <Box pl="15px" textAlign="center" maxW="250px">
+          <LineContent hBase="77em" hMd="75em" justify="center">
+            <Box pl="15px" textAlign="left" maxW="350px">
+              <Box mb="2.5em">
+                <ButtonYear>2022</ButtonYear>
+                <SubHeading>MedRefer (Freelance)</SubHeading>
+                <Text>
+                  - A web application for management data of hospital.
+                  <br />
+                  - Created table data for management user data.
+                  <br />
+                  - Users can create multiple username and password.
+                  <br />- Using react, styled-components, php.
+                </Text>
+              </Box>
+              <Box mb="2.5em">
+                <ButtonYear>2022 - present</ButtonYear>
+                <SubHeading>Food Recipe Center</SubHeading>
+                <Text>
+                  - A responsive web application for helping people to figure
+                  out what to cook.
+                  <br />- Using react, styled-components, php.
+                </Text>
+              </Box>
+              <Box mb="2.5em">
+                <ButtonYear>2021 - present</ButtonYear>
+                <SubHeading> The Rich</SubHeading>
+                <Text>
+                  Build my own project about Defi.
+                  <br />
+                  1. Decentralized exchange for my graduation project. <br />
+                  2. Farmimg like PancakeSwap.
+                  <br />
+                  Using solidity, react and redux.
+                </Text>
+              </Box>
+              <Box mb="2.5em">
+                <ButtonYear>2021</ButtonYear>
+                <SubHeading> AADS (Army Air Defense System)</SubHeading>
+                <Text>
+                  Work with a BU-MIT(Bangkok University) lab team.
+                  <br />
+                  A military program to control aircrafts from surveillance
+                  radars around Thailand.
+                  <br />
+                  Using C#, .net, Gmap.net, MySQL.
+                </Text>
+              </Box>
               <Box mb="2.5em">
                 <ButtonYear>2021</ButtonYear>
                 <SubHeading>RANIRON</SubHeading>
                 <Text>
                   Mini project that is about random numbers by using solidity
                   for the back-end in this system and react for the front-end.
-                </Text>
-              </Box>
-              <Box mb="2.5em">
-                <ButtonYear>2021</ButtonYear>
-                <SubHeading>The Rich</SubHeading>
-                <Text>
-                  It&apos;s about exchange for digital currency or defi that
-                  I&apos;m doing it.
-                </Text>
-              </Box>
-              <Box mb="2.5em">
-                <ButtonYear>2021</ButtonYear>
-                <SubHeading>AADS</SubHeading>
-                <Text>
-                  (Army Air Defense System)"
-                  <br /> BU-MIT (Bangkok University)
                 </Text>
               </Box>
             </Box>

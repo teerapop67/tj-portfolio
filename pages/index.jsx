@@ -53,7 +53,7 @@ const Page = () => {
                 <Heading as="h2" variant="page-title">
                   Teerapop Junchean
                 </Heading>
-                <p>Computer Science ( front-end / back-end ) </p>
+                <p>Computer Science ( front-end developer ) </p>
               </Box>
               <Box
                 flexShrink={0}
@@ -79,12 +79,11 @@ const Page = () => {
                 About
               </Heading>
               <Paragraph>
-                I&apos;m a front-end developer and I can be a back-end developer
-                too. My name is Teerapop Junchean. I&apos;m 21 years old.
-                I&apos;m studying at Bangkok University. I&apos;m into
-                blockchain and defi right now and I&apos;m ready to work.
-                I&apos;m seeking for stable company which is about blockchain. I
-                will surely be able to benefit your company.
+                I&apos;m a front-end developer who had 2 years of experience in
+                front-end which created various websites with user-friendly and
+                I can be a back-end developer too. I&apos;m ready to work.
+                I&apos;m seeking a stable company. I will surely be able to
+                benefit your company. Specialized in React, JavaScript.
               </Paragraph>
               <Box my={4} align="center">
                 <NextLink href="/works" passHref>

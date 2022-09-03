@@ -17,16 +17,16 @@ const Works = () => {
           <Box mb="4rem">
             <WorkItem
               title="MedRefer"
-              description="This is my first freelance project which is about a web application for management data of hospital. I Created table data for management user data and users can create multiple username and password.              "
+              description="This is my first freelance project which is about a web application for management data of hospital. I created table data for management user data and users can create multiple username and password.              "
               objects={WorkImg.medRefer}
               isArrow={true}
             />
           </Box>
-          
+
           <Box mb="4rem">
             <WorkItem
               title="Tamraidee"
-              description="I have created a mini  project  that is about random numbers by using solidity for the back-end in this system and react for the front-end"
+              description="A responsive web application for helping people to figure out what to cook from ingredients in the refrigerator"
               objects={WorkImg.tamraidee}
               isArrow={true}
             />

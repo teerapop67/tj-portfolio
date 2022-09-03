@@ -60,7 +60,7 @@ const Resume = () => {
                   - Created table data for management user data.
                   <br />
                   - Users can create multiple username and password.
-                  <br />- Using react, styled-components, php.
+                  <br />- Using react, graphQL
                 </Text>
               </Box>
               <Box mb="2.5em">
@@ -101,7 +101,7 @@ const Resume = () => {
                 <SubHeading>RANIRON</SubHeading>
                 <Text>
                   Mini project that is about random numbers by using solidity
-                  for the back-end in this system and react for the front-end.
+                  for the back-end in this system and react for front-end.
                 </Text>
               </Box>
             </Box>

@@ -16,11 +16,19 @@ const Works = () => {
         <Box align="center">
           <Box mb="4rem">
             <WorkItem
-              title="Raniron"
+              title="MedRefer"
+              description="This is my first freelance project which is about a web application for management data of hospital. I Created table data for management user data and users can create multiple username and password.              "
+              objects={WorkImg.medRefer}
+              isArrow={true}
+            />
+          </Box>
+          
+          <Box mb="4rem">
+            <WorkItem
+              title="Tamraidee"
               description="I have created a mini  project  that is about random numbers by using solidity for the back-end in this system and react for the front-end"
-              objects={WorkImg.ranIron}
-              isArrow={false}
-              link="https://raniron.netlify.app"
+              objects={WorkImg.tamraidee}
+              isArrow={true}
             />
           </Box>
 
@@ -40,6 +48,16 @@ const Works = () => {
               objects={WorkImg.drawable}
               isArrow={false}
               link="https://pixel-art-drawable.netlify.app"
+            />
+          </Box>
+
+          <Box mb="4rem">
+            <WorkItem
+              title="Raniron"
+              description="I have created a mini  project  that is about random numbers by using solidity for the back-end in this system and react for the front-end"
+              objects={WorkImg.ranIron}
+              isArrow={false}
+              link="https://raniron.netlify.app"
             />
           </Box>
         </Box>

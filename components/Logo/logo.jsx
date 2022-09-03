@@ -31,7 +31,7 @@ const Logo = () => {
               ml={3}
               fontWeight="bold"
             >
-              <span
+              <div
                 style={{
                   display: 'flex',
                   border: '2px solid #fff',
@@ -42,7 +42,7 @@ const Logo = () => {
               >
                 <h1 style={{ color: '#00FF7F' }}>T</h1>
                 <h1 style={{ color: '#00FF7F' }}>J</h1>
-              </span>
+              </div>
             </Text>
           </LogoBox>
           TEERAPOP

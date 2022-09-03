@@ -13,6 +13,42 @@ const theRich = [
   }
 ]
 
+const tamraidee = [
+  {
+    imgSource: '/images/tamraidee/landing.png'
+  },
+  {
+    imgSource: '/images/tamraidee/material.png'
+  },
+  {
+    imgSource: '/images/tamraidee/menuRecipe.png'
+  },
+  {
+    imgSource: '/images/tamraidee/recipeInfo.png'
+  },
+  {
+    imgSource: '/images/tamraidee/writeRecipe.png'
+  },
+  {
+    imgSource: '/images/tamraidee/profile.png'
+  },
+  {
+    imgSource: '/images/tamraidee/admin.png'
+  }
+]
+
+const medRefer = [
+  {
+    imgSource: '/images/medRefer/tablePage.png'
+  },
+  {
+    imgSource: '/images/medRefer/dataPage.png'
+  },
+  {
+    imgSource: '/images/medRefer/usernamePage.png'
+  }
+]
+
 const ranIron = [
   {
     imgSource: '/images/raniron/random.png'
@@ -25,4 +61,4 @@ const drawable = [
   }
 ]
 
-export default { theRich, ranIron, drawable }
+export default { theRich, ranIron, drawable, tamraidee, medRefer }

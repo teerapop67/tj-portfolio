@@ -26,7 +26,8 @@ const WorkItem = ({ title, description, objects, isArrow, link }) => {
                 src={evt.imgSource}
                 alt="img-works"
                 width={500}
-                height={400}
+                objectFit="contain"
+                height={200}
                 layout="responsive"
               />
             ))}

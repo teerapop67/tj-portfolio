@@ -59,7 +59,12 @@ const Navbar = props => {
           justify="space-between"
         >
           <Flex align="center" mr={5}>
-            <Heading _hover="red" as="h1" size="lg" letterSpacing={'tighter'}>
+            <Heading
+              _hover={{ color: 'red' }}
+              as="h1"
+              size="lg"
+              letterSpacing={'tighter'}
+            >
               <Logo />
             </Heading>
           </Flex>

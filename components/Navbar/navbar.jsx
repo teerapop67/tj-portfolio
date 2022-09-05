@@ -29,6 +29,7 @@ const LinkItem = ({ href, path, children }) => {
           bg={active ? 'green' : undefined}
           color={active ? '#202023' : inactiveColor}
           _hover={{ color: '#00FF7F' }}
+          style={{ borderRadius: '0.375rem' }}
         >
           {children}
         </Link>
@@ -60,7 +61,7 @@ const Navbar = props => {
         >
           <Flex align="center" mr={5}>
             <Heading
-              _hover={{ color: 'red' }}
+              _hover={{ color: '#00FF7F' }}
               as="h1"
               size="lg"
               letterSpacing={'tighter'}

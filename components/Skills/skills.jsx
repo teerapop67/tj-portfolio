@@ -11,7 +11,7 @@ const Skills = () => {
         <Heading as="h3" variant="section-title">
           Skills
         </Heading>
-        <LineContent hBase="54em" hMd="42em" justify="right">
+        <LineContent hBase="68em" hMd="50em" justify="right">
           <Box direction="column">
             <ItemSkill items={skillFrontend} name="Front-end" />
             <ItemSkill items={skillBackend} name="Back-end" />

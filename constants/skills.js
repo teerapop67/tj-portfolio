@@ -1,6 +1,6 @@
 export const skillFrontend = [
   { lang: 'Html' },
-  { lang: 'Css/Scss' },
+  { lang: 'CSS/SCSS' },
   { lang: 'JavaScript' },
   { lang: 'TypeScript' },
   { lang: 'React' },

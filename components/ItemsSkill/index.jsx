@@ -15,7 +15,7 @@ const ItemSkill = ({ items, name }) => {
         </Heading>
         <Box d={{ base: 'block', md: 'flex' }}>
           <Box direction="column" mr="2rem">
-            {items.slice(0, 4).map(item => (
+            {items.slice(0, 5).map(item => (
               <Text py={2} key={item.lang}>
                 &bull; {item.lang}
               </Text>

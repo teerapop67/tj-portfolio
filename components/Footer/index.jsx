@@ -61,6 +61,16 @@ const Footer = props => {
             >
               <i className="fab fa-instagram"></i>
             </LinkSocial>
+            <Text style={{ opacity: 0.4 }}>
+              reference by &nbsp;
+              <a
+                href="https://www.craftz.dog/"
+                style={{ textDecoration: 'underline', color: 'skyblue' }}
+                target="_blank"
+              >
+                craftz.dog
+              </a>
+            </Text>
           </Box>
         </Container>
       </Box>

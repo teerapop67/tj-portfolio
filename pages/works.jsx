@@ -26,7 +26,7 @@ const Works = () => {
           <Box mb="4rem">
             <WorkItem
               title="Tamraidee"
-              description="A responsive web application for helping people to figure out what to cook from ingredients in the refrigerator"
+              description="A responsive web application for helping people to figure out what to cook from ingredients in the refrigerator."
               objects={WorkImg.tamraidee}
               isArrow={true}
             />
@@ -38,6 +38,7 @@ const Works = () => {
               description="This is about decentralized finance (Defi) and webpage NFT marketplace project that I used to do. I will keep doing the next one which is decentralized exchange (DEX) for my graduation project."
               objects={WorkImg.theRich}
               isArrow={true}
+              link="https://therichdex.netlify.app/#/"
             />
           </Box>
 

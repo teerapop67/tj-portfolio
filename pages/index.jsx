@@ -184,6 +184,7 @@ const Page = () => {
                   I&apos;m seeking a stable company. I will surely be able to
                   benefit your company. Specialized in React, JavaScript.
                 </Paragraph>
+                sadsadsa
                 <Box my={4} align="center">
                   <NextLink href="/works" passHref>
                     <Button rightIcon={<ChevronRightIcon />}>

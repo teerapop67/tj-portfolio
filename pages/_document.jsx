@@ -11,7 +11,11 @@ export default class Document extends NextDocument {
         <meta name="description" content="Web Portfolio by Teerapop Junchean" />
         <Head />
         <link rel="preconnect" href="https://fonts.googleapis.com" />
-        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+        <link
+          rel="preconnect"
+          href="https://fonts.gstatic.com"
+          crossOrigin="true"
+        />
 
         <link
           rel="stylesheet"

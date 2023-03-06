@@ -6,7 +6,7 @@ const Loader = () => {
       <Container>
         <Box height="85vh" display="flex">
           <Heading m="auto">
-            <div class="lds-roller">
+            <div className="lds-roller">
               <div></div>
               <div></div>
               <div></div>

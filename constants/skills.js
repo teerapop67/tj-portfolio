@@ -2,11 +2,12 @@ export const skillFrontend = [
   { lang: 'Html' },
   { lang: 'CSS/SCSS' },
   { lang: 'JavaScript' },
-  { lang: 'TypeScript' },
+  { lang: 'TypeScrispt' },
   { lang: 'React' },
   { lang: 'Redux' },
   { lang: 'Styled-components' },
   { lang: 'Framer-motion' },
+  { lang: 'Angular' },
   { lang: 'Ether.js' }
 ]
 

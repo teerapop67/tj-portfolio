@@ -33,7 +33,6 @@ const Page = () => {
   // THREE
   useEffect(() => {
     setUpCanvas()
-    console.log('HEHEH')
   }, [afterLoading])
   //setUpCube
   const setUpCanvas = () => {

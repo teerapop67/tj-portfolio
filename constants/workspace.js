@@ -1,5 +1,11 @@
 const theRich = [
   {
+    imgSource: '/images/therich/defi-banner.png'
+  },
+  {
+    imgSource: '/images/therich/swap.png'
+  },
+  {
     imgSource: '/images/therich/therich1.png'
   },
   {

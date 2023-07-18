@@ -52,6 +52,24 @@ const Resume = () => {
           <LineContent hBase="77em" hMd="75em" justify="center">
             <Box pl="15px" textAlign="left" maxW="350px">
               <Box mb="2.5em">
+                <ButtonYear>2023</ButtonYear>
+                <SubHeading>HR Exvention (Internship Project)</SubHeading>
+                <Text>
+                  - Analysis UI from Figma and Created use case diagram.
+                  <br />
+                  - Able to manage travel expense of employee.
+                  <br />
+                  - Able to define travel expense rate.
+                  <br />
+                  - Able to Calculate travel expense by using Google Map.
+                  <br />
+                  - Refactor code for easier revisions.
+                  <br />
+                  - Connected API.
+                  <br />- Using Angular, Google Map, Github, Postman
+                </Text>
+              </Box>
+              <Box mb="2.5em">
                 <ButtonYear>2022</ButtonYear>
                 <SubHeading>MedRefer (Freelance)</SubHeading>
                 <Text>

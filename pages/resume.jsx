@@ -49,7 +49,7 @@ const Resume = () => {
           </BtnResume>
         </Box>
         <Section delay={0.1}>
-          <LineContent hBase="77em" hMd="75em" justify="center">
+          <LineContent hBase="100em" hMd="95em" justify="center">
             <Box pl="15px" textAlign="left" maxW="350px">
               <Box mb="2.5em">
                 <ButtonYear>2023</ButtonYear>

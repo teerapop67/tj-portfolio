@@ -82,7 +82,7 @@ const Resume = () => {
                 </Text>
               </Box>
               <Box mb="2.5em">
-                <ButtonYear>2022 - present</ButtonYear>
+                <ButtonYear>2022</ButtonYear>
                 <SubHeading>Food Recipe Center</SubHeading>
                 <Text>
                   - A responsive web application for helping people to figure
@@ -91,7 +91,7 @@ const Resume = () => {
                 </Text>
               </Box>
               <Box mb="2.5em">
-                <ButtonYear>2021 - present</ButtonYear>
+                <ButtonYear>2021</ButtonYear>
                 <SubHeading> The Rich</SubHeading>
                 <Text>
                   Build my own project about Defi.

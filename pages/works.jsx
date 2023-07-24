@@ -25,10 +25,11 @@ const Works = () => {
 
           <Box mb="4rem">
             <WorkItem
-              title="Tamraidee"
+              title="Kinraidee"
               description="A responsive web application for helping people to figure out what to cook from ingredients in the refrigerator."
               objects={WorkImg.tamraidee}
               isArrow={true}
+              link="http://kinraidee.infinityfreeapp.com/#/"
             />
           </Box>
 
